@@ -1,3 +1,2 @@
-var = "vad"
-print (var)
-
+print ("hello world")
+print ("hej från kod")
